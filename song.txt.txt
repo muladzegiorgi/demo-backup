@@ -7,5 +7,3 @@ from the lines
 shield by shield
 side by side
 We're marching into destiny
-
-march as one
